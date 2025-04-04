@@ -1,5 +1,7 @@
 # Sample app for Cloud Foundry runtime
 
+This is a fork of https://github.com/SAP-samples/cf-sample-app-nodejs, which has been updated to use [@sap/xsenv](https://www.npmjs.com/package/@sap/xsenv) for parsing of `VCAP_SERVICES`.
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cf-sample-app-nodejs)](https://api.reuse.software/info/github.com/SAP-samples/cf-sample-app-nodejs)
 
 ## Description
@@ -12,7 +14,7 @@ Please see the instructions in the first tutorial in the group mentioned above, 
 
 ## Requirements
 
-To make use of this repository and related tutorials, you will basic tools such as an editor and a tool to unzip and zip files and directories. In addition, you'll need the [Cloud Foundry CLI](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html). 
+To make use of this repository and related tutorials, you will basic tools such as an editor and a tool to unzip and zip files and directories. In addition, you'll need the [Cloud Foundry CLI](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html).
 
 ## Download and installation
 
@@ -20,7 +22,7 @@ See the instructions in the first tutorial of the group mentioned above.
 
 ## Support
 
-Support for the content in this repository is only available in the context of the tutorials mentioned above (see the "Feedback" link on each tutorial page). 
+Support for the content in this repository is only available in the context of the tutorials mentioned above (see the "Feedback" link on each tutorial page).
 
 ## Contributing
 
